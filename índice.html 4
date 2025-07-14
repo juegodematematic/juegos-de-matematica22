@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Juego Matemático</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-image: url('https://img.freepik.com/vector-premium/fondo-matematicas-fisica-fondo-pizarra-negra-formulas-matematicas-dibujadas-mano_120819-483.jpg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <!-- Aquí va tu juego o tu contenido -->
+</body>
+</html>
